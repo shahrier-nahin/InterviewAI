@@ -1,5 +1,5 @@
 google-generativeai
-serpapi
+google-search-results
 python-dotenv
 streamlit
 PyPDF2
